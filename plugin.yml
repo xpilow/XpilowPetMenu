@@ -1,5 +1,5 @@
 name: XpilowPetMenu
-main: xpilow\XpilowPetMenu
+main: xpilow\Main
 api: 3.0.0
 version: 1.14.0
 author: xpilow

@@ -404,7 +404,6 @@ class Main extends PluginBase implements Listener {
 				    }
                 }
             }
-        }
             if($re == 23){
             	if(!$o->sendMessage("§aAnda Berhasil Membeli pet §bSkeleton")){
             	    $money = $this->eco->myMoney($o);
@@ -665,7 +664,6 @@ class Main extends PluginBase implements Listener {
 				    }
                 }
             }
-        }
             if($re == 42){
             	if(!$o->sendMessage("§aAnda Berhasil Membeli pet §bZombieVillager")){
             	    $money = $this->eco->myMoney($o);

@@ -29,11 +29,11 @@ use pocketmine\utils\Config;
 
 use jojoe77777\FormAPI;
 
-use xpilow\XpilowPetMenu;
+use xpilow\Main;
 
 use onebone\economyapi\EconomyAPI;
 
-class XpilowPetMenu extends PluginBase implements Listener {
+class Main extends PluginBase implements Listener {
 
     /** @var Main $instance */
     private static $instance;

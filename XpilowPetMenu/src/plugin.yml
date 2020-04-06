@@ -1,0 +1,9 @@
+name: XpilowPetMenu
+main: xpilow\XpilowPetMenu
+api: 3.0.0
+version: 1.14.0
+author: xpilow
+
+commands:
+  pet:
+    description: Open Your Xpilow Pet Menu!
